@@ -1,0 +1,205 @@
+:root {
+  --theme-color: #e82277;
+}
+
+/*===== Primary Color =====*/
+
+/*===== Background Color =====*/
+.thm-bg,
+.thm-layer:before,
+.thm-btn.fill-btn,
+.thm-btn.brd-btn > span,
+.feat-caro > button.slick-arrow:hover,
+.feat-caro > button.slick-arrow:focus,
+.feat-cap .countdown:before,
+.about-img-caro .slick-dots > li.slick-active button,
+.sec-title-inner > i::before,
+.event-wrap ul.nav-tabs li a.nav-link.active,
+.event-wrap ul.nav-tabs li.active:before,
+.event-wrap ul.nav-tabs li a.nav-link.active:after,
+.reason-desc ul.nav-tabs li a.nav-link.active,
+.speaker-box:after,
+.post-date:before,
+.topbar-btns > a.user-btn,
+.topbar-btns > a.search-btn:hover,
+.topbar-btns > a.search-btn:focus,
+.social-links3 > a:hover,
+.social-links3 > a:focus,
+.testi-caro > button.slick-arrow:hover,
+.testi-caro > button.slick-arrow:focus,
+header.style3 .header-right-btns > a:hover,
+header.style3 .header-right-btns > a:focus,
+.about-img > a:before,
+.gallery-item > a::before,
+.sponsor-caro > button.slick-arrow:hover,
+.sponsor-caro > button.slick-arrow:focus,
+.gallery-caro > button.slick-arrow:hover,
+.gallery-caro > button.slick-arrow:focus,
+.gallery-caro2 > button.slick-arrow:hover,
+.gallery-caro2 > button.slick-arrow:focus,
+.gallery-item2:before,
+.pagination > li.page-item a.page-link:hover,
+.pagination > li.page-item a.page-link:focus,
+.pagination > li.page-item span.page-link,
+.pagination li.page-item.prev a.page-link:hover, 
+.pagination li.page-item.next a.page-link:hover,
+.pagination li.page-item.prev a.page-link:focus, 
+.pagination li.page-item.next a.page-link:focus,
+.contact-info-box:hover > i,
+.toggle-item.active:before,
+.toggle-item.active > h4 i::before,
+.product-info > a.cart-btn:hover,
+.product-info > a.cart-btn:focus,
+.widget-box .cate-list > li:hover span,
+.tagclouds > a:hover,
+.tagclouds > a:focus,
+.detail-video > a::before,
+.flickr-photos-list > li a:before,
+.event-date-list > li:before,
+.event-detail-features-list > li:hover,
+nav ul ul li.menu-item-has-children a::before,
+.search-close-btn:hover, 
+.search-close-btn:focus,
+header.style3.sticky .header-right-btns > a:hover,
+header.style3.sticky .header-right-btns > a:focus,
+.res-caro ul.slick-dots > li.slick-active button,
+.gallery-caro2 ul.slick-dots > li.slick-active button,
+.blue-layer .res-caro ul.slick-dots > li.slick-active button,
+.black-layer .res-caro ul.slick-dots > li.slick-active button,
+.feat-caro ul.slick-dots > li.slick-active button,
+.blue-layer .testi-caro ul.slick-dots > li.slick-active button,
+.black-layer .testi-caro ul.slick-dots > li.slick-active button,
+.testi-caro ul.slick-dots > li.slick-active button,
+.menu-close:hover,
+.menu-close:focus,
+.toggle-item3.active > h4,
+.toggle-item2:before
+{
+	background-color: var(--theme-color);
+}
+
+/*===== Text Color =====*/
+.thm-clr,
+nav ul li:hover > a,
+nav ul li.active > a,
+nav ul li > a:focus,
+.header-right-btns > a:hover,
+.header-right-btns > a:focus,
+.feat-cap > h3 a:hover,
+.feat-cap > h3 a:focus,
+.thm-btn.brd-btn,
+.event-info > h3 a:hover,
+.event-info > h3 a:focus,
+.event-org > li a:hover,
+.event-org > li a:focus,
+.reason-desc-inner > a,
+.speackers-desc > a,
+.reason-desc-inner ul.nav-tabs li a.nav-link:hover,
+.package-head > span sup,
+.event-grid-info > h3 a:hover,
+.event-grid-info > h3 a:focus,
+.post-info > h3 a:hover,
+.post-info > h3 a:focus,
+.footer-inner > p a,
+.bottom-links > li a:hover,
+.bottom-links > li a:focus,
+.social-links2 > a:hover,
+.social-links2 > a:focus,
+.feat-cap2 > h3 a:hover,
+.feat-cap2 > h3 a:focus,
+.feat-caro2 > button.slick-arrow:hover,
+.feat-caro2 > button.slick-arrow:focus,
+.event-grid-info2 > h3 a:hover,
+.event-grid-info2 > h3 a:focus,
+.event-style2 h3 a:hover,
+.event-style2 h3 a:focus,
+.package-head2 > span sup,
+.newsletter-inner form button,
+.post-info2 > h3 a:hover,
+.post-info2 > h3 a:focus,
+.post-social:hover > i,
+.testi-caro > button.slick-arrow,
+.sponsor-caro > button.slick-arrow,
+.gallery-caro > button.slick-arrow,
+.gallery-caro2 > button.slick-arrow,
+.feature-box > a:hover,
+.feature-box > a:focus,
+.widget ul li > a:before,
+.widget ul li:hover > a,
+.widget ul li > a:focus,
+.bottom-bar-inner > p a,
+.breadcrumb > li.breadcrumb-item > a:hover,
+.breadcrumb > li.breadcrumb-item > a:focus,
+.filter-links > li:hover > a,
+.filter-links > li.active > a,
+.filter-links > li a:focus,
+.error-inner > form button:hover,
+.error-inner > form button:focus,
+.contact-info-box > p a:hover,
+.contact-info-box > p a:focus,
+.toggle-item.active > h4,
+.product-info > a,
+.product-info > h3 a:hover,
+.product-info > h3 a:focus,
+.recent-event-info > h4 a:hover,
+.recent-event-info > h4 a:focus,
+.article-info > h4 a:hover,
+.article-info > h4 a:focus,
+.widget-box ul li:hover > a,
+.widget-box ul li > a:focus,
+.product-cate > a:hover,
+.product-cate > a:focus,
+.product-cart-info > h4 a:hover,
+.product-cart-info > h4 a:focus,
+[type="radio"]:not(:checked) + label:after,
+[type="radio"]:checked + label:after,
+.post-tags > a:hover,
+.post-tags > a:focus,
+.blog-detail-desc ul li:before,
+.menu-wrap ul li:hover > a,
+.menu-wrap ul li.active > a,
+.menu-wrap ul li.active-parent > a,
+.menu-wrap ul li > a:focus,
+.speaker-info-list > li a:hover,
+.speaker-info-list > li a:focus,
+.login-popup-inner > form a:hover,
+.login-popup-inner > form a:focus
+{
+	color: var(--theme-color);
+}
+
+/*===== Border Color =====*/
+.thm-brd-clr,
+.thm-btn.fill-btn,
+.thm-btn.brd-btn,
+.reason-desc > a,
+.blue-layer .btns-wrap > a.brd-btn:hover,
+.blue-layer .btns-wrap > a.brd-btn:focus,
+.testi-caro > button.slick-arrow,
+.sponsor-caro > button.slick-arrow,
+.gallery-caro > button.slick-arrow,
+.gallery-caro2 > button.slick-arrow
+{
+	border-color: var(--theme-color);
+}
+
+nav ul ul
+{
+	border-top-color: var(--theme-color);
+}
+
+nav ul ul::before,
+.header-search > form input
+{
+	border-bottom-color: var(--theme-color);
+}
+
+
+{
+	border-left-color: var(--theme-color);
+}
+
+
+{
+	border-right-color: var(--theme-color);
+}
