@@ -110,29 +110,29 @@ include 'header.php';
                             </tr>
 
                             <tr>
-                                <td>Associate Professor Bahattin Güllü</td>
+                                <td>Assistant Professor Bahattin Güllü</td>
                                 <td>Aksaray University</td>
                             </tr>
 
 
                             <tr>
-                                <td>Associate Professor Kıymet Deniz</td>
+                                <td>Assistant Professor Kıymet Deniz</td>
                                 <td>Ankara University</td>
                             </tr>
 
                             <tr>
-                                <td>Associate Professor Yasemin Gündoğdu</td>
+                                <td>Assistant Professor Yasemin Gündoğdu</td>
                                 <td>Selçuk University</td>
                             </tr>
 
                             <tr>
-                                <td>Associate Professor Gürsel Kansun</td>
+                                <td>Assistant Professor Gürsel Kansun</td>
                                 <td>Konya Technical University</td>
                             </tr>
 
 
                             <tr>
-                                <td>Associate Professor Hatice Ünal Ercan </td>
+                                <td>Assistant Professor Hatice Ünal Ercan </td>
                                 <td>Konya Technical University</td>
                             </tr>
 

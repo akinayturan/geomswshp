@@ -40,37 +40,43 @@ include 'header.php';
                             <tbody>
 
                             <tr>
-                                <td> Prof. Dr. Hüseyin Kurt</td>
+                                <td>Prof. Dr. Hüseyin Kurt</td>
                             </tr>
                             <tr>
                                 <td>Prof. Dr. Kürşad Asan</td>
                             </tr>
                             <tr>
-                                <td> Prof. Dr. Yusuf Kağan Kadıoğlu</td>
+                                <td>Prof. Dr. Hamdi Şükür Kılıç</td>
                             </tr>
                             <tr>
-                                <td> Prof. Dr. Hamdi Şükür Kılıç</td>
+                                <td>Prof. Dr. Fetullah Arık</td>
                             </tr>
                             <tr>
-                                <td> Prof. Dr. Fetullah Arık</td>
+                                <td>Assistant Professor Yasemin Gündoğdu</td>
                             </tr>
-
                             <tr>
-                                <td>Associate Professor Yasemin Gündoğdu</td>
+                                <td>Assistant Professor Kıymet Deniz</td>
+                            </tr>
+                            <tr>
+                                <td>Assistant Professor Hatice Ünal Ercan</td>
+                            </tr>
+                            <tr>
+                                <td>Assistant Professor Fatma Gülmez</td>
+                            </tr>
+                            <tr>
+                                <td>Dr. Gönenç Göçmengil</td>
                             </tr>
                             <tr>
                                 <td>Dr. Gülin Gençoğlu Korkmaz</td>
                             </tr>
                             <tr>
-                                <td> Dr. Yeşim Özen</td>
+                                <td>Dr. Yeşim Özen</td>
                             </tr>
-
                             <tr>
-                                <td> Dr. Zeynep Cansu Ayturan</td>
+                                <td>Dr. Zeynep Cansu Ayturan</td>
                             </tr>
-
                             <tr>
-                                <td> MSc. Yasin Akın Ayturan</td>
+                                <td>MSc. Yasin Akın Ayturan</td>
                             </tr>
 
                             </tbody>
