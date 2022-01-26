@@ -1461,7 +1461,6 @@ header.style3.sticky .header-right-btns > a {background-color: #f6f7fb;}
 .about-img:before {
   content: "";
   position: absolute;
-  background-image: url(../images/patter-bg2.png);
   height: 22.5rem;
   width: 33.125rem;
   bottom: 0;

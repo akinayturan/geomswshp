@@ -46,21 +46,22 @@ include 'header.php';
                         <div class="col-md-12 col-sm-12 col-lg-6 order-lg-1">
                             <div class="about-img w-100">
                                 <div class="about-img-caro">
+                                    <div class="about-img-item"><img class="img-fluid w-100" src="assets/mid1.jpg" alt="About Image 1"></div>
+                                    <div class="about-img-item"><img class="img-fluid w-100" src="assets/mid2.jpg" alt="About Image 1"></div>
+                                    <div class="about-img-item"><img class="img-fluid w-100" src="assets/mid3.jpg" alt="About Image 1"></div>
+                                </div>
+                                <hr/>
+                                <div class="about-img-caro">
+                                    <div class="about-img-item"><img class="img-fluid w-100" src="assets/mid4.jpg" alt="About Image 1"></div>
                                     <div class="about-img-item"><img class="img-fluid w-100" src="assets/workshop.jpg" alt="About Image 1"></div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6">
                             <div class="about-desc w-100">
-                                <p><strong>As an organizing commitee, we are honored to invite you to attend 1.GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be
-                                        held on 5-6 May 2022 online. This workshop will useful for scientists, students, and researchers who are interested in studies such as the events from the formation of
-                                        the universe to the present, the dating of the magmatism and volcanic activities, time scales of magmatic processes, the effect of humanity and volcanism, and the
-                                        revealing of the magmatism-tectonism relationship. In this workshop, the methods used for geochronological studies and case studies will be explained and
-                                        discussed.</strong></p>
-                                <p><strong>Through the workshop, it will be possible to establish new partnerships, to share knowledge and experiences.</strong></p>
-                                <p><strong>The purpose of the workshop is to give information about the geological, petrological and geochronological information to participants. Also, this workshop aims to
-                                        provide connections for students and young reserachers, and also to provide opportunities for experts to share and discuss their experiences.</strong></p>
-
+                                <p>Geochronology is the science of detecting the age of rocks, fossils, and sediments using signatures inherent in the rocks themselves. Absolute geochronology can be accomplished through radioactive isotopes, whereas relative geochronology is provided by tools such as palaeomagnetism and stable isotope ratios. K-Ar, Ar-Ar, Rb-Sr, Sm-Nd, U-Th-Pb,&nbsp; and fission track dating methods could be used for the detecting the age of the effusive rocks. These methods can be used together or alone on mineral or whole rock. By using these methods we can detect the crystallization and/or the cooling ages of the intrusion and magmatism.&nbsp; The method and analytical technique (<strong>SIMS:Secondary Ion Mass Spectrometry; (U-Th)/He dating</strong> (Quadrupole Isotope-dilution Mass Spectrometry (MS-for He) and Inductively Coupled Plasma Mass Spectrometry (ICP-MS-For U and Th); <strong>&nbsp;LA-ICP-MS: </strong>Laser Ablation Inductively Coupled Plasma Mass Spectrometry);<strong> SHRIMP: </strong>Sensitive High-Resolution Ion Microprobe, etc.) to be used are determined by the mineralogical and chemical composition and/or petrographic properties of the rock.</p>
+                                <p>Many dating metods such as U-Pb, U-Th/He, K-Ar (Ar-Ar), radiocarbon (14C), fission-track, and luminescence method could be applied on Quaternary aged volcanites (Danisik et al., 2017).&nbsp; U-Pb series methods and the usage of the robust minerals both physically and chemically (apatite, rutile, zircon) for the dating gives more accurate results. Moreover they can give an information about the magma dynamics. Combination of zircon ages with geochemical indicators, for magmatic temperatures (Ti-in zircon content) and for compositions (Zr / Hf, Eu / Eu, in zircon; La / Nd, Mg / Mn ratios in allanite) can provide information regarding dynamics of the evolution of the magmatic system&nbsp; (Schmitt, 2011).</p>
+                                <p>This workshop will attract the interest of the students, young researchers,&nbsp; and scientists, as it gives information about the geochronological methods and analytical techniques used and the case studies, the relationship between magmatism-tectonism, volcanic activities and their effects on humans, and petrological studies.</p>
                             </div>
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-12 order-md-1">

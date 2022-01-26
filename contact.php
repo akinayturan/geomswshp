@@ -14,7 +14,6 @@ include 'header.php';
             <div class="sec-title mb-45 w-100 text-center">
                 <div class="sec-title-inner pt-0 d-inline-block">
                     <span class="d-block thm-clr">If You Have Any Questions </span>
-                    <h2 class="mb-0"> Please Contact With me</h2>
                 </div>
             </div><!-- Sec Title -->
             <div class="packages-wrap w-100">

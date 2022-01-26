@@ -22,7 +22,7 @@ include 'header.php';
             <div class="packages-wrap w-100">
                 <div class="row mrg60 res-caro mb-10">
                     <div class="col-md-12 col-sm-12 col-lg-12">
-                        <p><strong>As an organizing commitee, we are honored to invite you to attend the International Symposium for 1.GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be
+                        <p><strong>As an organizing commitee, we are honored to invite you to attend 1.GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be
                                 held on 5-6 May 2022 online. This workshop will useful for scientists, students, and researchers who are interested in studies such as the events from the formation of
                                 the universe to the present, the dating of the magmatism and volcanic activities, time scales of magmatic processes, the effect of humanity and volcanism, and the
                                 revealing of the magmatism-tectonism relationship. In this workshop, the methods used for geochronological studies and case studies will be explained and

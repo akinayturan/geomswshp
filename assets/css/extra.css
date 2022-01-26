@@ -28,3 +28,15 @@ table {
   transition: all 1s;
 
 }
+
+.logo{
+
+  text-align: left;
+  padding: 0 0 39px;
+}
+.logo a {
+  font-size: 0.9em;
+  color: #fff;
+  white-space: nowrap;
+
+}

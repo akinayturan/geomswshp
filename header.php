@@ -13,10 +13,10 @@
     <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css">
     <link rel="stylesheet" href="assets/css/perfect-scrollbar.css">
     <link rel="stylesheet" href="assets/css/slick.css">
-    <link rel="stylesheet" href="assets/css/style.css?v3">
+    <link rel="stylesheet" href="assets/css/style.css?v4">
     <link rel="stylesheet" href="assets/css/responsive.css">
     <link rel="stylesheet" href="assets/css/color.css">
-    <link rel="stylesheet" href="assets/css/extra.css">
+    <link rel="stylesheet" href="assets/css/extra.css?v1">
 </head>
 <body>
 
@@ -24,8 +24,8 @@
     <header class="stick style1 w-100">
         <div class="container">
             <div class="logo-menu-wrap w-100 d-flex flex-wrap justify-content-between align-items-start">
-                <div class="logo">
-                </div>
+                <div class="logo"><h1 class="mb-0"><a href="/" title="Home">GEOMSWSHP</a></h1></div><!-- Logo -->
+
                 <!-- Logo -->
                 <nav class="d-inline-flex align-items-center">
                     <div class="header-left">
@@ -43,6 +43,7 @@
                                 <ul class="children mb-0 list-unstyled">
                                     <li><a href="/invitation.php" title="">Invitation</a></li>
                                     <li><a href="/important-dates.php" title="">Important Dates</a></li>
+                                    <li><a href="/documents.php" title="">Documents</a></li>
                                 </ul>
                             </li>
                             <li><a href="/invited-speakers.php" title="">Invited Speakers</a></li>
@@ -72,6 +73,7 @@
                 <ul class="children mb-0 list-unstyled">
                     <li><a href="/invitation.php" title="">Invitation</a></li>
                     <li><a href="/important-dates.php" title="">Important Dates</a></li>
+                    <li><a href="/documents.php" title="">Documents</a></li>
                 </ul>
             </li>
             <li><a href="/invited-speakers.php" title="">Invited Speakers</a></li>
