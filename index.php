@@ -17,7 +17,7 @@ include 'header.php';
                                     <div class="col-md-12 col-sm-12 col-lg-7">
                                         <div class="feat-cap w-100">
                                             <i class="text-white"><strong>5-6 May 2022</strong></i>
-                                            <h3 class="mb-0 text-white"><a href="event-detail.html" title="">Geochronology and Mass Spectrometry Workshop</a></h3>
+                                            <h3 class="mb-0 text-white"><a href="#" title="">Geochronology and Mass Spectrometry Workshop</a></h3>
                                             <span class="d-block text-white"><i class="fas fa-map-marker-alt"></i><strong>Location:</strong> Konya, TURKEY</span>
 
                                         </div>
