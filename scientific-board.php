@@ -129,6 +129,24 @@ include 'header.php';
                                 <td>Associate Professor Gürsel Kansun</td>
                                 <td>Konya Technical University</td>
                             </tr>
+
+
+                            <tr>
+                                <td>Associate Professor Hatice Ünal Ercan </td>
+                                <td>Konya Technical University</td>
+                            </tr>
+
+
+                            <tr>
+                                <td>Dr. Gönenç Göçmengil </td>
+                                <td> Istanbul Technical University/ The Istanbul Metropolitan Municipality           </td>
+                            </tr>
+
+                            <tr>
+                                <td>Dr. Fatma Gülmez </td>
+                                <td> Istanbul Technical University          </td>
+                            </tr>
+
                             <tr>
                                 <td>Dr.Yeşim Özen</td>
                                 <td>Konya Technical University</td>

@@ -1,0 +1,30 @@
+table {
+  border-collapse: collapse;
+}
+.tg {
+  width: -webkit-fill-available;
+}
+.tg > tbody > tr > td {
+  border: 1px solid #ccc;
+  padding: 8px 8px;
+}
+
+.spec-img{
+  height: 420px;
+  object-fit: cover;
+  width: 100%;
+  /* border-radius: 48px; */
+  -moz-transition: all 1s;
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+.flogo{
+  height: 120px;
+  object-fit: fill;
+  width: 100%;
+  /* border-radius: 48px; */
+  -moz-transition: all 1s;
+  -webkit-transition: all 1s;
+  transition: all 1s;
+
+}

@@ -20,6 +20,22 @@ include 'header.php';
             <div class="packages-wrap w-100">
                 <div class="row mrg60 res-caro">
                     <div class="col-md-12 col-sm-12 col-lg-12">
+                        <h2>COORDINATOR</h2>
+                        <table class="tg mb-10">
+                            <tbody>
+
+                            <tr>
+                                <td> Dr. Gülin Gençoğlu Korkmaz
+
+                                </td>
+                            </tr>
+
+
+                            </tbody>
+                        </table>
+                        <h2>ORGANIZATION COMMITTEE
+
+                        </h2>
                         <table class="tg">
                             <tbody>
 
@@ -43,10 +59,18 @@ include 'header.php';
                                 <td>Associate Professor Yasemin Gündoğdu</td>
                             </tr>
                             <tr>
-                                <td>Dr.Gülin Gençoğlu Korkmaz</td>
+                                <td>Dr. Gülin Gençoğlu Korkmaz</td>
                             </tr>
                             <tr>
-                                <td> Dr.Yeşim Özen</td>
+                                <td> Dr. Yeşim Özen</td>
+                            </tr>
+
+                            <tr>
+                                <td> Dr. Zeynep Cansu Ayturan</td>
+                            </tr>
+
+                            <tr>
+                                <td> MSc. Yasin Akın Ayturan</td>
                             </tr>
 
                             </tbody>

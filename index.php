@@ -17,7 +17,7 @@ include 'header.php';
                                     <div class="col-md-12 col-sm-12 col-lg-7">
                                         <div class="feat-cap w-100">
                                             <i class="text-white"><strong>5-6 May 2022</strong></i>
-                                            <h3 class="mb-0 text-white"><a href="event-detail.html" title="">Geochronology And Mass Spectrometry Workshop</a></h3>
+                                            <h3 class="mb-0 text-white"><a href="event-detail.html" title="">Geochronology and Mass Spectrometry Workshop</a></h3>
                                             <span class="d-block text-white"><i class="fas fa-map-marker-alt"></i><strong>Location:</strong> Konya, TURKEY</span>
 
                                         </div>
@@ -33,13 +33,14 @@ include 'header.php';
     </section>
     <section>
         <div class="w-100 pt-120 pb-120 position-relative">
-            <div class="container">
-                <div class="sec-title mb-70 w-100 text-center">
-                    <div class="sec-title-inner d-inline-block">
-                        <i class=""></i>
-                        <h2 class="mb-0">About Event</h2>
-                    </div>
-                </div><!-- Sec Title -->
+            <div class="container">        <div class="container">
+                    <div class="sec-title btm-icn mb-60 w-100 text-center">
+                        <div class="sec-title-inner d-inline-block">
+                            <h2 class="mb-0">About Event</h2>
+                            <i class=""></i>
+                        </div>
+                    </div><!-- Sec Title -->
+
                 <div class="about-wrap w-100">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-lg-6 order-lg-1">
@@ -51,7 +52,7 @@ include 'header.php';
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6">
                             <div class="about-desc w-100">
-                                <p><strong>As an organizing commitee, we are honored to invite you to attend the International Symposium for 1.GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be
+                                <p><strong>As an organizing commitee, we are honored to invite you to attend 1.GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be
                                         held on 5-6 May 2022 online. This workshop will useful for scientists, students, and researchers who are interested in studies such as the events from the formation of
                                         the universe to the present, the dating of the magmatism and volcanic activities, time scales of magmatic processes, the effect of humanity and volcanism, and the
                                         revealing of the magmatism-tectonism relationship. In this workshop, the methods used for geochronological studies and case studies will be explained and

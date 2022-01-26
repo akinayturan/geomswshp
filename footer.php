@@ -16,11 +16,11 @@
                     <p class="mb-10 pb-10 col-md-12"><a href="#" title="">Collaborative Institutions</a></p>
                     <div class="row pt-10">
                     <div class="  col-md-4"><h1 class="mb-0">
-                            <a href="index.html" title=""><img class="flogo" src="assets/foot2.jpg" alt="Logo"></a></h1></div>
+                            <a href="#" title=""><img class="flogo" src="assets/foot2.jpg" alt="Logo"></a></h1></div>
                     <div class="  col-md-4"><h1 class="mb-0">
-                            <a href="index.html" title=""><img class="flogo" src="assets/foot4.png" alt="Logo"></a></h1></div>
+                            <a href="#" title=""><img class="flogo" src="assets/foot4.png" alt="Logo"></a></h1></div>
                     <div class="  col-md-4"><h1 class="mb-0">
-                            <a href="index.html" title=""><img class="flogo" src="assets/foot3.png" alt="Logo"></a></h1></div>
+                            <a href="#" title=""><img class="flogo" src="assets/foot3.png" alt="Logo"></a></h1></div>
                     </div>
                 </div>
                 <div class="footer-bottom d-flex flex-wrap justify-content-between w-100">
