@@ -35,7 +35,7 @@ include 'header.php';
                                     <p><strong>&nbsp;</strong></p>
                                     <p><strong>For registration please send an email.</strong></p>
                                     <p><strong>CONTACT</strong></p>
-                                    <p><strong>Dr.G&uuml;lin Gen&ccedil;oğlu Korkmaz</strong></p>
+                                    <p><strong>Dr. G&uuml;lin Gen&ccedil;oğlu Korkmaz</strong></p>
                                     <p><strong><a href="mailto:gencoglukorkmaz@gmail.com">gencoglukorkmaz@gmail.com</a> </strong></p>
                                     <p><strong>&nbsp;</strong></p>
                                 </div>

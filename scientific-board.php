@@ -28,17 +28,14 @@ include 'header.php';
                                 <td>Prof. Dr. Axel K. Schmitt</td>
                                 <td>Heidelberg University</td>
                             </tr>
-
                             <tr>
                                 <td>Associate Professor Martin Danisik</td>
                                 <td>Curtin University</td>
                             </tr>
-
                             <tr>
                                 <td>Prof. Dr. Yusuf Kağan Kadıoğlu</td>
                                 <td>Ankara University</td>
                             </tr>
-
                             <tr>
                                 <td>Prof. Dr. Nizamettin Kazancı</td>
                                 <td>Ankara University</td>
@@ -53,13 +50,10 @@ include 'header.php';
                                 <td>Prof. Dr. Tamer Koralay</td>
                                 <td>Pamukkale University</td>
                             </tr>
-
                             <tr>
                                 <td>Prof. Dr. Mehmet Arslan</td>
                                 <td>Karadeniz Technical University</td>
                             </tr>
-
-
                             <tr>
                                 <td>Prof. Dr. İrfan Temizel</td>
                                 <td>Karadeniz Technical University</td>
@@ -69,99 +63,74 @@ include 'header.php';
                                 <td>Prof. Dr. Yener Eyüboğlu</td>
                                 <td>Karadeniz Technical University</td>
                             </tr>
-
-
                             <tr>
                                 <td>Prof. Dr. Hüseyin Kurt</td>
                                 <td>KonyaTechnical University</td>
                             </tr>
-
                             <tr>
                                 <td>Prof. Dr. Kürşad Asan</td>
                                 <td>Konya Technical University</td>
                             </tr>
-
                             <tr>
                                 <td>Prof. Dr. Fetullah Arık</td>
                                 <td>Konya Technical University</td>
                             </tr>
-
-
                             <tr>
                                 <td>Prof. Dr. Kerim Koçak</td>
                                 <td>Konya Technical University</td>
                             </tr>
-
-
                             <tr>
                                 <td>Prof. Dr. Hamdi Şükür Kılıç</td>
                                 <td>Selçuk University</td>
                             </tr>
-
                             <tr>
                                 <td>Prof.Dr. Nilgün Güleç</td>
                                 <td>Middle East Technical University</td>
                             </tr>
-
-
                             <tr>
                                 <td>Prof. Dr.Gonca Gençalioğlu Kuşçu</td>
                                 <td>Muğla Sıtkı Koçman University</td>
                             </tr>
-
                             <tr>
                                 <td>Assistant Professor Bahattin Güllü</td>
                                 <td>Aksaray University</td>
                             </tr>
-
-
                             <tr>
-                                <td>Assistant Professor Kıymet Deniz</td>
-                                <td>Ankara University</td>
+                                <td>Assistant Professor  Fatma Gülmez </td>
+                                <td> Istanbul Technical University          </td>
                             </tr>
-
-                            <tr>
-                                <td>Assistant Professor Yasemin Gündoğdu</td>
-                                <td>Selçuk University</td>
-                            </tr>
-
                             <tr>
                                 <td>Assistant Professor Gürsel Kansun</td>
                                 <td>Konya Technical University</td>
                             </tr>
-
-
                             <tr>
                                 <td>Assistant Professor Hatice Ünal Ercan </td>
                                 <td>Konya Technical University</td>
                             </tr>
-
-
+                            <tr>
+                                <td>Assistant Professor Kıymet Deniz</td>
+                                <td>Ankara University</td>
+                            </tr>
+                            <tr>
+                                <td>Assistant Professor Yasemin Gündoğdu</td>
+                                <td>Selçuk University</td>
+                            </tr>
                             <tr>
                                 <td>Dr. Gönenç Göçmengil </td>
                                 <td> Istanbul Technical University/ The Istanbul Metropolitan Municipality           </td>
-                            </tr>
-
-                            <tr>
-                                <td>Dr. Fatma Gülmez </td>
-                                <td> Istanbul Technical University          </td>
-                            </tr>
-
-                            <tr>
-                                <td>Dr.Yeşim Özen</td>
-                                <td>Konya Technical University</td>
                             </tr>
                             <tr>
                                 <td>Dr.Gülin Gençoğlu Korkmaz</td>
                                 <td>Konya Technical University</td>
                             </tr>
-
+                            <tr>
+                                <td>Dr.Yeşim Özen</td>
+                                <td>Konya Technical University</td>
+                            </tr>
                             <tr>
                                 <td>Dr.Ece Kırat</td>
-                                <td>University of Exeter
-                                    Camborne School of Mines</td>
+                                <td>University of Exeter Camborne School of Mines</td>
                             </tr>
-
                             </tbody>
                         </table>
                     </div>
