@@ -25,7 +25,7 @@ include 'header.php';
                         <p><strong>&nbsp;</strong></p>
                         <p><strong>Registration and Abstract Submission Date: 15 March 2022</strong></p>
                         <p><strong>Deadline: 15 April 2022 </strong></p>
-                        <p><strong>Workshop Date: 12-13 May 2022</strong></p>
+                        <p><strong>Workshop Date: 12-13 May 2022 (online)</strong></p>
                         <p><strong>&nbsp;</strong></p>
                         <p><strong>Participation in the workshop, which will be held in a limited time due to Covid 19, will be limited.</strong></p>
                         <p><strong>&nbsp;</strong></p>

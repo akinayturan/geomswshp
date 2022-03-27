@@ -55,7 +55,7 @@
                         </div>
                         <div class="col-md-4 col-sm-4 col-lg-4">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
-                                <img class="spec-img" src="assets/img5.jpg" alt="Speaker Image 3">
+                                <img class="spec-img" src="assets/img6.jpg" alt="Speaker Image 3">
                                 <div class="speaker-info position-absolute">
                                     <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Prof. Dr.Hamdi Şükür Kılıç 	</a></h3>
                                     <span class="d-block">Selcuk University  Physics Department (Advanced Technologies Research and Application Center Laser Laboratory)
@@ -68,7 +68,7 @@
                         </div>
                         <div class="col-md-4 col-sm-4 col-lg-4">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
-                                <img class="spec-img" src="assets/img6.jpg" alt="Speaker Image 4">
+                                <img class="spec-img" src="assets/img5.jpg" alt="Speaker Image 4">
                                 <div class="speaker-info position-absolute">
                                     <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Associate Professor Eren Şahiner</a></h3>
                                     <span class="d-block">Nuclear Sciences Institute</span>

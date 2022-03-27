@@ -21,14 +21,12 @@ include 'header.php';
             <div class="packages-wrap w-100">
                 <div class="row mrg60 res-caro">
                     <div class="col-md-12 col-sm-12 col-lg-12">
-
                         <ul class="icon">
-                            <li class="star"><a href="/assets/general-program-framework.pdf" target="_blank"><i class="fa  fa-file-pdf-o"></i> General Program Framework</a></li>
-                            <li class="star"><a href="/assets/banner-GEOMSWSHP2022.pdf" target="_blank"><i class="fa  fa-file-pdf-o"></i> Banner</a></li>
-                            <li class="star"><a href="/assets/GEOMSWSHP2022_Registration_Form.docx" target="_blank"><i class="fa  fa-file-pdf-o"></i> Registration Form</a></li>
-                            <li class="star"><a href="/assets/GEOMSWSHP2022_Abstract_Template.docx" target="_blank"><i class="fa  fa-file-pdf-o"></i> Abstract Template</a></li>
-                            <li class="star"><a href="/assets/GEOMSWSHP2022_Full_Paper_Template.docx" target="_blank"><i class="fa  fa-file-pdf-o"></i> Full Paper Template</a></li>
-                        </ul>
+                            <li class="star"><a href="/assets/general-program-framework.pdf?e1" target="_blank"><i class="fa  fa-file-pdf-o"></i> General Program Framework</a></li>
+                            <li class="star"><a href="/assets/banner-GEOMSWSHP2022.pdf?e1" target="_blank"><i class="fa  fa-file-pdf-o"></i> Banner</a></li>
+                            <li class="star"><a href="/assets/GEOMSWSHP2022_Registration_Form.docx?e1" target="_blank"><i class="fa  fa-file-pdf-o"></i> Registration Form</a></li>
+                            <li class="star"><a href="/assets/GEOMSWSHP2022_Abstract_Template.docx?e1" target="_blank"><i class="fa  fa-file-pdf-o"></i> Abstract Template</a></li>
+                            <li class="star"><a href="/assets/GEOMSWSHP2022_Full_Paper_Template.docx?e1" target="_blank"><i class="fa  fa-file-pdf-o"></i> Full Paper Template</a></li>
                         </ul>
                     </div>
 
