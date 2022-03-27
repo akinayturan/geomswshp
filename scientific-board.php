@@ -29,11 +29,11 @@ include 'header.php';
                                 <td>Heidelberg University</td>
                             </tr>
                             <tr>
-                                <td>Prof.Dr.	Erkan Aydar</td>
+                                <td>Prof. Dr. Erkan Aydar</td>
                                 <td>Hacettepe University Geological Engineering</td>
                             </tr>
                             <tr>
-                                <td>Prof.Dr.	İlkay Kuşçu      </td>
+                                <td>Prof. Dr. İlkay Kuşçu      </td>
                                 <td>Muğla Sıtkı Koçman University Geological Engineering </td>
                             </tr>
                             <tr>
@@ -88,11 +88,11 @@ include 'header.php';
                                 <td>Selçuk University</td>
                             </tr>
                             <tr>
-                                <td>Prof.Dr. Nilgün Güleç</td>
+                                <td>Prof. Dr. Nilgün Güleç</td>
                                 <td>Middle East Technical University</td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr.Gonca Gençalioğlu Kuşçu</td>
+                                <td>Prof. Dr. Gonca Gençalioğlu Kuşçu</td>
                                 <td>Muğla Sıtkı Koçman University</td>
                             </tr>
                             <tr>
@@ -104,7 +104,7 @@ include 'header.php';
                                 <td>Aksaray University</td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor  Fatma Gülmez </td>
+                                <td>Assistant Professor Fatma Gülmez </td>
                                 <td> Istanbul Technical University          </td>
                             </tr>
                             <tr>
