@@ -29,8 +29,12 @@ include 'header.php';
                                 <td>Heidelberg University</td>
                             </tr>
                             <tr>
-                                <td>Associate Professor Martin Danisik</td>
-                                <td>Curtin University</td>
+                                <td>Prof.Dr.	Erkan Aydar</td>
+                                <td>Hacettepe University Geological Engineering</td>
+                            </tr>
+                            <tr>
+                                <td>Prof.Dr.	İlkay Kuşçu      </td>
+                                <td>Muğla Sıtkı Koçman University Geological Engineering </td>
                             </tr>
                             <tr>
                                 <td>Prof. Dr. Yusuf Kağan Kadıoğlu</td>
@@ -90,6 +94,10 @@ include 'header.php';
                             <tr>
                                 <td>Prof. Dr.Gonca Gençalioğlu Kuşçu</td>
                                 <td>Muğla Sıtkı Koçman University</td>
+                            </tr>
+                            <tr>
+                                <td>Assistant Professor Serap Yiğit Gezgin	</td>
+                                <td>Selcuk University  Physics Department (Advanced Technologies Research and Application Center</td>
                             </tr>
                             <tr>
                                 <td>Assistant Professor Bahattin Güllü</td>

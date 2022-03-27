@@ -40,20 +40,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6 col-lg-6">
-                            <div class="speaker-box position-relative w-100 overflow-hidden">
-                                <img class="spec-img" src="assets/img2.jpeg" alt="Speaker Image 3">
-                                <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Associate Professor Martin Danisik	</a></h3>
-                                    <span class="d-block">Curtin University
-</span>
-                                </div>
-                                <h3 class="mb-0 text-white position-absolute">Associate Professor Martin Danisik	</h3>
-                                <div class="speaker-social position-absolute">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-lg-6">
+
+                        <div class="col-md-4 col-sm-4 col-lg-4">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img4.png" alt="Speaker Image 4">
                                 <div class="speaker-info position-absolute">
@@ -61,6 +49,31 @@
                                     <span class="d-block">Muğla Sıtkı Koçman University</span>
                                 </div>
                                 <h3 class="mb-0 text-white position-absolute">Prof. Dr.Gonca Gençalioğlu Kuşçu</h3>
+                                <div class="speaker-social position-absolute">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-lg-4">
+                            <div class="speaker-box position-relative w-100 overflow-hidden">
+                                <img class="spec-img" src="assets/img5.jpg" alt="Speaker Image 3">
+                                <div class="speaker-info position-absolute">
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Prof. Dr.Hamdi Şükür Kılıç 	</a></h3>
+                                    <span class="d-block">Selcuk University  Physics Department (Advanced Technologies Research and Application Center Laser Laboratory)
+</span>
+                                </div>
+                                <h3 class="mb-0 text-white position-absolute">Prof. Dr.Hamdi Şükür Kılıç 	</h3>
+                                <div class="speaker-social position-absolute">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-lg-4">
+                            <div class="speaker-box position-relative w-100 overflow-hidden">
+                                <img class="spec-img" src="assets/img6.jpg" alt="Speaker Image 4">
+                                <div class="speaker-info position-absolute">
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Associate Professor Eren Şahiner</a></h3>
+                                    <span class="d-block">Nuclear Sciences Institute</span>
+                                </div>
+                                <h3 class="mb-0 text-white position-absolute">Associate Professor Eren Şahiner</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>

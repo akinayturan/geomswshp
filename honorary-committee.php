@@ -25,17 +25,24 @@ include 'header.php';
                             <tbody>
                             <tr>
                                 <td>Prof. Dr. Axel K. Schmitt</td>
-                                <td>Heidelberg University</td>
+                                <td>Heidelberg University,Institute of Earth Sciences</td>
                             </tr>
                             <tr>
-                                <td>Associate Professor Martin Danisik</td>
-                                <td>Curtin University</td>
+                                <td>Prof. Dr	.Yusuf Kağan Kadıoğlu</td>
+                                <td>Ankara University, Geological Engineering</td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Yusuf Kağan Kadıoğlu</td>
-                                <td>Ankara University</td>
+                                <td>Prof. Dr.Gonca Gençalioğlu Kuşçu</td>
+                                <td>Muğla Sıtkı Koçman University Geological Engineering</td>
                             </tr>
-
+                            <tr>
+                                <td>Prof. Dr.Hamdi Şükür Kılıç </td>
+                                <td>Selcuk University  Physics Department (Advanced Technologies Research and Application Center Laser Laboratory)</td>
+                            </tr>
+                            <tr>
+                                <td>Associate Professor Eren Şahiner </td>
+                                <td>Ankara University, Nuclear Sciences Institute</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>

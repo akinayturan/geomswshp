@@ -38,16 +38,6 @@ include 'header.php';
                         </h2>
                         <table class="tg">
                             <tbody>
-
-                            <tr>
-                                <td>Prof. Dr. Hüseyin Kurt</td>
-                            </tr>
-                            <tr>
-                                <td>Prof. Dr. Kürşad Asan</td>
-                            </tr>
-                            <tr>
-                                <td>Prof. Dr. Hamdi Şükür Kılıç</td>
-                            </tr>
                             <tr>
                                 <td>Prof. Dr. Fetullah Arık</td>
                             </tr>
@@ -77,6 +67,15 @@ include 'header.php';
                             </tr>
                             <tr>
                                 <td>MSc. Yasin Akın Ayturan</td>
+                            </tr>
+                            <tr>
+                                <td>Chamber of Geological Engineers</td>
+                            </tr>
+                            <tr>
+                                <td>Chamber of Geological Engineers Konya Branch</td>
+                            </tr>
+                            <tr>
+                                <td>Head of Konya Branch of the Chamber of Geological Engineers, Geology Assoc. Eng. Sukru Arslan</td>
                             </tr>
 
                             </tbody>
