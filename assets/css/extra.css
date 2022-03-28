@@ -37,9 +37,19 @@ table {
 .logo-img{
   width: 125px;
 }
+
 .logo a {
   font-size: 0.9em;
   color: #fff;
   white-space: nowrap;
 
+}
+
+@media (max-width: 576px) {
+  .logo a {
+    font-size: 0.7em;
+    color: #fff;
+    white-space: nowrap;
+
+  }
 }

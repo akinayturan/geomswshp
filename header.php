@@ -6,17 +6,17 @@
     <link rel="icon" href="assets/workshop.jpg" sizes="35x35" type="image/png">
     <title>Geochronology And Mass Spectrometry Workshop</title>
 
-    <link rel="stylesheet" href="assets/css/all.min.css?v5">
-    <link rel="stylesheet" href="assets/css/flaticon.css?v5">
-    <link rel="stylesheet" href="assets/css/animate.min.css?v5">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css?v5">
-    <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css?v5">
-    <link rel="stylesheet" href="assets/css/perfect-scrollbar.css?v5">
-    <link rel="stylesheet" href="assets/css/slick.css?v5">
-    <link rel="stylesheet" href="assets/css/style.css?v5">
-    <link rel="stylesheet" href="assets/css/responsive.css?v5">
-    <link rel="stylesheet" href="assets/css/color.css?v5">
-    <link rel="stylesheet" href="assets/css/extra.css?v5">
+    <link rel="stylesheet" href="assets/css/all.min.css?v6">
+    <link rel="stylesheet" href="assets/css/flaticon.css?v6">
+    <link rel="stylesheet" href="assets/css/animate.min.css?v6">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css?v6">
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.min.css?v6">
+    <link rel="stylesheet" href="assets/css/perfect-scrollbar.css?v6">
+    <link rel="stylesheet" href="assets/css/slick.css?v6">
+    <link rel="stylesheet" href="assets/css/style.css?v6">
+    <link rel="stylesheet" href="assets/css/responsive.css?v6">
+    <link rel="stylesheet" href="assets/css/color.css?v6">
+    <link rel="stylesheet" href="assets/css/extra.css?v6">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
           integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
