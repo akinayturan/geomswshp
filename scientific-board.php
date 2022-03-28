@@ -125,7 +125,7 @@ include 'header.php';
                             </tr>
                             <tr>
                                 <td>Dr. Gönenç Göçmengil </td>
-                                <td>           </td>
+                                <td>IBB</td>
                             </tr>
                             <tr>
                                 <td>Dr. Gülin Gençoğlu Korkmaz</td>
