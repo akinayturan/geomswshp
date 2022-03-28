@@ -42,9 +42,17 @@ include 'header.php';
                                 <td>Prof. Dr. Fetullah Arık Head of Geological Engineering Department (Konya Technical University)</td>
                             </tr>
                             <tr>
-                                <td>Chamber of Geological Engineers<br/>
-                                    Chamber of Geological Engineers Konya Branch<br/>
-                                    Head of Konya Branch of the Chamber of Geological Engineers, Geology Assoc. Eng. Sukru Arslan<br/>
+                                <td>Chamber of Geological Engineers
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Chamber of Geological Engineers Konya Branch
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Head of Konya Branch of the Chamber of Geological Engineers, Geology Assoc. Eng. Sukru Arslan
                                 </td>
                             </tr>
                             <tr>

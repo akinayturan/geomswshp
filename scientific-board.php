@@ -128,15 +128,15 @@ include 'header.php';
                                 <td>           </td>
                             </tr>
                             <tr>
-                                <td>Dr.Gülin Gençoğlu Korkmaz</td>
+                                <td>Dr. Gülin Gençoğlu Korkmaz</td>
                                 <td>Konya Technical University</td>
                             </tr>
                             <tr>
-                                <td>Dr.Yeşim Özen</td>
+                                <td>Dr. Yeşim Özen</td>
                                 <td>Konya Technical University</td>
                             </tr>
                             <tr>
-                                <td>Dr.Ece Kırat</td>
+                                <td>Dr. Ece Kırat</td>
                                 <td>University of Exeter Camborne School of Mines</td>
                             </tr>
                             </tbody>
