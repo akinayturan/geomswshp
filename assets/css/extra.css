@@ -22,7 +22,6 @@ table {
   height: 120px;
   object-fit: fill;
   width: 100%;
-  /* border-radius: 48px; */
   -moz-transition: all 1s;
   -webkit-transition: all 1s;
   transition: all 1s;

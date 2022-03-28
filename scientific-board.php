@@ -25,119 +25,444 @@ include 'header.php';
                         <table class="tg">
                             <tbody>
                             <tr>
-                                <td>Prof. Dr. Axel K. Schmitt</td>
-                                <td>Heidelberg University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Axel K. Schmitt
+                                </td>
+                                <td>
+                                    Heidelberg University
+                                </td>
+                                <td wa="138">
+                                    Heidelberg University Institute of Earth Sciences
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Erkan Aydar</td>
-                                <td>Hacettepe University Geological Engineering</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Yusuf Kağan Kadıoğlu
+                                </td>
+                                <td>
+                                    Ankara University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. İlkay Kuşçu      </td>
-                                <td>Muğla Sıtkı Koçman University Geological Engineering </td>
+                                <td>
+                                    Prof.Dr.
+                                </td>
+                                <td>
+                                    Erkan Aydar
+                                </td>
+                                <td>
+                                    Hacettepe University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Yusuf Kağan Kadıoğlu</td>
-                                <td>Ankara University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Halim Mutlu&nbsp;
+                                </td>
+                                <td>
+                                    Ankara University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Nizamettin Kazancı</td>
-                                <td>Ankara University</td>
-                            </tr>
-
-                            <tr>
-                                <td>Prof. Dr. Halim Mutlu</td>
-                                <td>Ankara University</td>
-                            </tr>
-
-                            <tr>
-                                <td>Prof. Dr. Tamer Koralay</td>
-                                <td>Pamukkale University</td>
-                            </tr>
-                            <tr>
-                                <td>Prof. Dr. Mehmet Arslan</td>
-                                <td>Karadeniz Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Nizamettin Kazancı
+                                </td>
+                                <td>
+                                    Ankara University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. İrfan Temizel</td>
-                                <td>Karadeniz Technical University</td>
-                            </tr>
-
-                            <tr>
-                                <td>Prof. Dr. Yener Eyüboğlu</td>
-                                <td>Karadeniz Technical University</td>
-                            </tr>
-                            <tr>
-                                <td>Prof. Dr. Hüseyin Kurt</td>
-                                <td>KonyaTechnical University</td>
-                            </tr>
-                            <tr>
-                                <td>Prof. Dr. Kürşad Asan</td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Tamer Koralay
+                                </td>
+                                <td>
+                                    Pamukkale University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Fetullah Arık</td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Mehmet Arslan
+                                </td>
+                                <td>
+                                    Karadeniz Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Kerim Koçak</td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    İrfan Temizel&nbsp;&nbsp;&nbsp;
+                                </td>
+                                <td>
+                                    Karadeniz Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Hamdi Şükür Kılıç</td>
-                                <td>Selçuk University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Yener Ey&uuml;boğlu
+                                </td>
+                                <td>
+                                    Karadeniz Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Nilgün Güleç</td>
-                                <td>Middle East Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    H&uuml;seyin Kurt
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Prof. Dr. Gonca Gençalioğlu Kuşçu</td>
-                                <td>Muğla Sıtkı Koçman University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    K&uuml;rşad Asan
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Serap Yiğit Gezgin	</td>
-                                <td>Selcuk University  Physics Department (Advanced Technologies Research and Application Center</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Fetullah Arık
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Bahattin Güllü</td>
-                                <td>Aksaray University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Kerim Ko&ccedil;ak&nbsp;
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Fatma Gülmez </td>
-                                <td> Istanbul Technical University          </td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Hamdi Şükür Kılıç
+                                </td>
+                                <td>
+                                    Sel&ccedil;uk University
+                                </td>
+                                <td wa="138">
+                                    Department of Physics-Sel&ccedil;uk University. Advanced Technologies Research and Application Center
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Gürsel Kansun</td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Nilgün Güleç
+                                </td>
+                                <td>
+                                    Middle East Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Hatice Ünal Ercan </td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    Gonca Gençalioğlu Kuşçu
+                                </td>
+                                <td>
+                                    Muğla Sıtkı Ko&ccedil;man University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Kıymet Deniz</td>
-                                <td>Ankara University</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    İlkay Kuş&ccedil;u&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </td>
+                                <td>
+                                    Muğla Sıtkı Ko&ccedil;man University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Assistant Professor Yasemin Gündoğdu</td>
-                                <td>Selçuk University</td>
+                                <td>
+                                    Prof. Dr.
+                                    &nbsp;
+                                </td>
+                                <td>
+                                    Emrah Yalcın Ersoy
+                                </td>
+                                <td>
+                                    Dokuz Eyl&uuml;l University&nbsp;
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Dr. Gönenç Göçmengil </td>
-                                <td>IBB</td>
+                                <td>
+                                    Prof. Dr
+                                </td>
+                                <td>
+                                    C&uuml;neyt Akal
+                                </td>
+                                <td>
+                                    Dokuz Eyl&uuml;l University&nbsp;
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Dr. Gülin Gençoğlu Korkmaz</td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Associate Professor
+                                </td>
+                                <td>
+                                    Ersin Koralay
+                                </td>
+                                <td>
+                                    Dokuz Eyl&uuml;l University&nbsp;
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Dr. Yeşim Özen</td>
-                                <td>Konya Technical University</td>
+                                <td>
+                                    Assistant professor
+                                </td>
+                                <td>
+                                    Bahattin G&uuml;ll&uuml;
+                                </td>
+                                <td>
+                                    Aksaray University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             <tr>
-                                <td>Dr. Ece Kırat</td>
-                                <td>University of Exeter Camborne School of Mines</td>
+                                <td>
+                                    Assistant professor
+                                </td>
+                                <td>
+                                    Kıymet Deniz
+                                </td>
+                                <td>
+                                    Ankara University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assistant professor
+                                </td>
+                                <td>
+                                    Yasemin G&uuml;ndoğdu
+                                </td>
+                                <td>
+                                    Sel&ccedil;uk University
+                                </td>
+                                <td wa="138">
+                                    Department of Physics-Sel&ccedil;uk University. Advanced Technologies Research and Application Center
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assistant Professor
+                                </td>
+                                <td>
+                                    Serap Yiğit Gezgin
+                                </td>
+                                <td>
+                                    Sel&ccedil;uk University
+                                </td>
+                                <td wa="138">
+                                    Department of Physics-Sel&ccedil;uk University. Advanced Technologies Research and Application Center
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assistant Professor
+                                </td>
+                                <td>
+                                    G&uuml;rsel Kansun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assistant Professor
+                                </td>
+                                <td>
+                                    Hatice &Uuml;nal Ercan
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assistant Professor
+                                </td>
+                                <td>
+                                    Fatma G&uuml;lmez&nbsp;
+                                </td>
+                                <td>
+                                    Istanbul Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Dr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;
+                                </td>
+                                <td>
+                                    Yeşim &Ouml;zen
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Dr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;
+                                </td>
+                                <td>
+                                    G&uuml;lin Gen&ccedil;oğlu Korkmaz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                </td>
+                                <td>
+                                    Konya Technical University
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Dr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;
+                                </td>
+                                <td>
+                                    Ece Kırat
+                                </td>
+                                <td>
+                                    University of Exeter,Camborne School of Mines
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Dr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    &nbsp;
+                                </td>
+                                <td>
+                                    G&ouml;nen&ccedil; G&ouml;&ccedil;mengil&nbsp;&nbsp;
+                                </td>
+                                <td>
+                                    Istanbul Technical University/ The Istanbul Metropolitan Municipality&nbsp;
+                                </td>
+                                <td wa="138">
+                                    Geological Engineering
+                                </td>
                             </tr>
                             </tbody>
                         </table>
