@@ -33,13 +33,19 @@ include 'header.php';
 
                             </tbody>
                         </table>
-                        <h2>ORGANIZATION COMMITTEE
-
+                        <h2>
+                            ORGANIZATION COMMITTEE
                         </h2>
-                        <table class="tg">
+                        <table class="tg mb-10">
                             <tbody>
                             <tr>
-                                <td>Prof. Dr. Fetullah Arık</td>
+                                <td>Prof. Dr. Fetullah Arık Head of Geological Engineering Department (Konya Technical University)</td>
+                            </tr>
+                            <tr>
+                                <td>Chamber of Geological Engineers<br/>
+                                    Chamber of Geological Engineers Konya Branch<br/>
+                                    Head of Konya Branch of the Chamber of Geological Engineers, Geology Assoc. Eng. Sukru Arslan<br/>
+                                </td>
                             </tr>
                             <tr>
                                 <td>Assistant Professor Yasemin Gündoğdu</td>
@@ -66,20 +72,28 @@ include 'header.php';
                                 <td>Dr. Zeynep Cansu Ayturan</td>
                             </tr>
                             <tr>
-                                <td>MSc. Yasin Akın Ayturan</td>
+                                <td>Engineer Msc. Yasin Akın Ayturan</td>
                             </tr>
-                            <tr>
-                                <td>Chamber of Geological Engineers</td>
-                            </tr>
-                            <tr>
-                                <td>Chamber of Geological Engineers Konya Branch</td>
-                            </tr>
-                            <tr>
-                                <td>Head of Konya Branch of the Chamber of Geological Engineers, Geology Assoc. Eng. Sukru Arslan</td>
-                            </tr>
-
                             </tbody>
                         </table>
+
+                        <h2>Editors</h2>
+                        <table class="tg mb-10">
+                            <tbody>
+
+                            <tr>
+                                <td>
+                                    Dr. Gülin Gençoğlu Korkmaz (Geological Engineering Department (Konya Technical University)
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Geology Assoc. Eng. Sukru Arslan (Head of Konya Branch of the Chamber of Geological Engineers/ Konya Provincial Directorate of Disaster and Emergency- AFAD)
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+
                     </div>
 
                 </div>
@@ -87,7 +101,6 @@ include 'header.php';
         </div>
     </div>
 </section>
-
 
 <?php
 include 'footer.php';

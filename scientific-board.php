@@ -125,7 +125,7 @@ include 'header.php';
                             </tr>
                             <tr>
                                 <td>Dr. Gönenç Göçmengil </td>
-                                <td> Istanbul Technical University/ The Istanbul Metropolitan Municipality           </td>
+                                <td>           </td>
                             </tr>
                             <tr>
                                 <td>Dr.Gülin Gençoğlu Korkmaz</td>

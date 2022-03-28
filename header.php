@@ -18,22 +18,26 @@
     <link rel="stylesheet" href="assets/css/color.css">
     <link rel="stylesheet" href="assets/css/extra.css?v1">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+          integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 </head>
 <body>
 
 <main>
-    <header class="stick style1 w-100">
+    <header class=" style1 w-100">
         <div class="container">
             <div class="logo-menu-wrap w-100 d-flex flex-wrap justify-content-between align-items-start">
-                <div class="logo"><h1 class="mb-0"><a href="/" title="Home">GEOMSWSHP</a></h1></div><!-- Logo -->
+                <div class="logo"><h1 class="mb-0">
+                        <img class="logo-img" src="assets/logo.png" alt="ktun"/>
+                        <a href="/" title="Home">GEOMSWSHP</a>
+                    </h1>
+                </div><!-- Logo -->
 
                 <!-- Logo -->
                 <nav class="d-inline-flex align-items-center">
                     <div class="header-left">
 
                         <ul class="mb-0 list-unstyled d-inline-flex">
-                            <li><a href="/" title="">Home</a></li>
                             <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Comittiees</a>
                                 <ul class="children mb-0 list-unstyled">
                                     <li><a href="/honorary-committee.php" title="">Honorary Committee</a></li>

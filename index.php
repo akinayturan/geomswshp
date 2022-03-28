@@ -16,9 +16,9 @@ include 'header.php';
                                     </div>
                                     <div class="col-md-12 col-sm-12 col-lg-7">
                                         <div class="feat-cap w-100">
-                                            <i class="text-white"><strong>12-13 May 2022 - Konya. </strong></i>
+                                            <i class="text-white"><strong>12-13 May 2022 - Konya Technical University, Geological Engineering Department. </strong></i>
                                             <h3 class="mb-0 text-white"><a href="#" title="">Geochronology and Mass Spectrometry Workshop</a></h3>
-                                            <span class="d-block text-white"><i class="fas fa-map-marker-alt"></i><strong>Location:</strong> Konya, TURKEY</span>
+                                            <span class="d-block text-white"><i class="fas fa-map-marker-alt"></i><strong>Location:</strong> - Konya Technical University, Geological Engineering Department, TURKEY</span>
 
                                         </div>
                                     </div>
