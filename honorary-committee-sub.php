@@ -1,26 +1,23 @@
 <tbody>
 <tr>
-    <td>Prof. Dr. Axel K. Schmitt</td>
-    <td>Heidelberg University,Institute of Earth Sciences</td>
+    <td>Prof. Dr. Axel K. Schmitt,  Heidelberg University, Institute of Earth Sciences </td>
 </tr>
 <tr>
-    <td>Prof. Dr. Yusuf Kağan Kadıoğlu</td>
-    <td>Ankara University, Geological Engineering</td>
+    <td>Prof. Dr. Yusuf Kağan Kadıoğlu, Ankara University, Department of Geological Engineering</td>
 </tr>
 <tr>
-    <td>Prof. Dr. Gonca Gençalioğlu Kuşçu</td>
-    <td>Muğla Sıtkı Koçman University Geological Engineering</td>
+    <td>Prof. Dr. Gonca Gençalioğlu Kuşcu, Muğla Sıtkı Koçman University, Department of Geological Engineering</td>
 </tr>
 <tr>
-    <td>Prof. Dr. Hamdi Şükür Kılıç </td>
-    <td>Selcuk University  Physics Department (Advanced Technologies Research and Application Center Laser Laboratory)</td>
+    <td>Prof. Dr. Hamdi Şükür Kılıç, Selçuk University, Physics Department (Advanced Technologies Research and Application Center Laser Laboratory)</td>
 </tr>
 <tr>
-    <td>Associate Professor Eren Şahiner </td>
-    <td>Ankara University, Nuclear Sciences Institute</td>
+    <td>Assoc. Prof. Dr. Eren Şahiner, Ankara University, Nuclear Sciences Institute</td>
 </tr>
 <tr>
-    <td>Associate Professor Ersin Koralay </td>
-    <td>Dokuz Eylül University 	Geological Engineering</td>
+    <td>Assoc. Prof. Dr. Ersin Koralay, Dokuz Eylül University, Department of Geological Engineering</td>
+</tr>
+<tr>
+    <td>Assoc. Prof. Dr. Fatih Karaoglan, Cukurova University, Department of Geological Engineering</td>
 </tr>
 </tbody>

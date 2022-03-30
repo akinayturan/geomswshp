@@ -68,7 +68,7 @@
         <span class="menu-close"><i class="fas fa-times"></i></span>
         <ul class="mb-0 list-unstyled w-100">
             <li><a href="/" title="">Home</a></li>
-            <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Comittiees</a>
+            <li class="menu-item-has-children"><a href="javascript:void(0);" title="">Committiees</a>
                 <ul class="children mb-0 list-unstyled">
                     <li><a href="/honorary-committee.php" title="">Honorary Committee</a></li>
                     <li><a href="/organization-committee.php" title="">Organization Committee</a></li>

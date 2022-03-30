@@ -29,7 +29,7 @@ include 'header.php';
                         <p><strong>&nbsp;</strong></p>
                         <p><strong>Participation in the workshop, which will be held in a limited time due to Covid 19, will be limited.</strong></p>
                         <p><strong>&nbsp;</strong></p>
-                        <p><strong>Received papers will be accepted after peer review and all accepted articles will be printed in the proceeding book.</strong></p>
+                        <p><strong>Received papers will be accepted after peer review and all accepted articles will be published in the proceeding E-Book.</strong></p>
                         <p><strong>&nbsp;</strong></p>
                     </div>
 

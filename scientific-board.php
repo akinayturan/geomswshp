@@ -26,7 +26,7 @@ include 'header.php';
                             <tbody>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Axel K. Schmitt
@@ -34,13 +34,13 @@ include 'header.php';
                                 <td>
                                     Heidelberg University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Heidelberg University Institute of Earth Sciences
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Yusuf Kağan Kadıoğlu
@@ -48,7 +48,7 @@ include 'header.php';
                                 <td>
                                     Ankara University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
@@ -62,13 +62,13 @@ include 'header.php';
                                 <td>
                                     Hacettepe University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Halim Mutlu&nbsp;
@@ -76,13 +76,13 @@ include 'header.php';
                                 <td>
                                     Ankara University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Nizamettin Kazancı
@@ -90,13 +90,13 @@ include 'header.php';
                                 <td>
                                     Ankara University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Tamer Koralay
@@ -104,13 +104,13 @@ include 'header.php';
                                 <td>
                                     Pamukkale University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Mehmet Arslan
@@ -118,13 +118,13 @@ include 'header.php';
                                 <td>
                                     Karadeniz Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     İrfan Temizel&nbsp;&nbsp;&nbsp;
@@ -132,13 +132,13 @@ include 'header.php';
                                 <td>
                                     Karadeniz Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Yener Ey&uuml;boğlu
@@ -146,13 +146,13 @@ include 'header.php';
                                 <td>
                                     Karadeniz Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     H&uuml;seyin Kurt
@@ -160,13 +160,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     K&uuml;rşad Asan
@@ -174,13 +174,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Fetullah Arık
@@ -188,13 +188,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Kerim Ko&ccedil;ak&nbsp;
@@ -202,7 +202,7 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
@@ -216,13 +216,13 @@ include 'header.php';
                                 <td>
                                     Sel&ccedil;uk University
                                 </td>
-                                <td wa="138">
-                                    Department of Physics-Sel&ccedil;uk University. Advanced Technologies Research and Application Center
+                                <td>
+                                    Department of Physics-Sel&ccedil;uk University. <br/>Advanced Technologies Research and Application Center
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
                                     Nilgün Güleç
@@ -230,35 +230,35 @@ include 'header.php';
                                 <td>
                                     Middle East Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
-                                    Gonca Gençalioğlu Kuşçu
+                                    Gonca Gençalioğlu Kuşcu
                                 </td>
                                 <td>
                                     Muğla Sıtkı Ko&ccedil;man University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Prof. Dr
+                                    Prof. Dr.
                                 </td>
                                 <td>
-                                    İlkay Kuş&ccedil;u&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    İlkay Kuşcu
                                 </td>
                                 <td>
                                     Muğla Sıtkı Ko&ccedil;man University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
@@ -273,7 +273,7 @@ include 'header.php';
                                 <td>
                                     Dokuz Eyl&uuml;l University&nbsp;
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
@@ -287,13 +287,13 @@ include 'header.php';
                                 <td>
                                     Dokuz Eyl&uuml;l University&nbsp;
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Associate Professor
+                                    Assoc. Prof. Dr.
                                 </td>
                                 <td>
                                     Ersin Koralay
@@ -301,13 +301,41 @@ include 'header.php';
                                 <td>
                                     Dokuz Eyl&uuml;l University&nbsp;
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant professor
+                                    Assoc. Prof. Dr.
+                                </td>
+                                <td>
+                                    Eren Şahiner
+                                </td>
+                                <td>
+                                    Ankara University
+                                </td>
+                                <td>
+                                    Nuclear Sciences Institute
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assoc. Prof. Dr.
+                                </td>
+                                <td>
+                                    Fatih Karaoglan,
+                                </td>
+                                <td>
+                                    Cukurova University,
+                                </td>
+                                <td>
+                                    Geological Engineering
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     Bahattin G&uuml;ll&uuml;
@@ -315,13 +343,13 @@ include 'header.php';
                                 <td>
                                     Aksaray University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant professor
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     Kıymet Deniz
@@ -329,13 +357,13 @@ include 'header.php';
                                 <td>
                                     Ankara University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant professor
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     Yasemin G&uuml;ndoğdu
@@ -343,13 +371,13 @@ include 'header.php';
                                 <td>
                                     Sel&ccedil;uk University
                                 </td>
-                                <td wa="138">
-                                    Department of Physics-Sel&ccedil;uk University. Advanced Technologies Research and Application Center
+                                <td>
+                                    Department of Physics-Sel&ccedil;uk University. <br/>Advanced Technologies Research and Application Center
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant Professor
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     Serap Yiğit Gezgin
@@ -357,13 +385,13 @@ include 'header.php';
                                 <td>
                                     Sel&ccedil;uk University
                                 </td>
-                                <td wa="138">
-                                    Department of Physics-Sel&ccedil;uk University. Advanced Technologies Research and Application Center
+                                <td>
+                                    Department of Physics-Sel&ccedil;uk University. <br/>Advanced Technologies Research and Application Center
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant Professor
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     G&uuml;rsel Kansun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -371,13 +399,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant Professor
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     Hatice &Uuml;nal Ercan
@@ -385,13 +413,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Assistant Professor
+                                    Assist. Prof. Dr.
                                 </td>
                                 <td>
                                     Fatma G&uuml;lmez&nbsp;
@@ -399,14 +427,13 @@ include 'header.php';
                                 <td>
                                     Istanbul Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Dr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    &nbsp;
+                                    Dr.
                                 </td>
                                 <td>
                                     Yeşim &Ouml;zen
@@ -414,14 +441,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Dr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    &nbsp;
+                                    Dr
                                 </td>
                                 <td>
                                     G&uuml;lin Gen&ccedil;oğlu Korkmaz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -429,15 +455,13 @@ include 'header.php';
                                 <td>
                                     Konya Technical University
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Dr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    &nbsp;
+                                    Dr.
                                 </td>
                                 <td>
                                     Ece Kırat
@@ -445,22 +469,22 @@ include 'header.php';
                                 <td>
                                     University of Exeter,Camborne School of Mines
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    Dr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                    &nbsp;
+
+                                    Dr.
                                 </td>
                                 <td>
                                     G&ouml;nen&ccedil; G&ouml;&ccedil;mengil&nbsp;&nbsp;
                                 </td>
                                 <td>
-                                    Istanbul Technical University/ The Istanbul Metropolitan Municipality&nbsp;
+                                    The Istanbul Metropolitan Municipality&nbsp;
                                 </td>
-                                <td wa="138">
+                                <td>
                                     Geological Engineering
                                 </td>
                             </tr>

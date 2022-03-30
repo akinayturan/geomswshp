@@ -22,15 +22,11 @@ include 'header.php';
             <div class="packages-wrap w-100">
                 <div class="row mrg60 res-caro mb-10">
                     <div class="col-md-12 col-sm-12 col-lg-12">
-                        <p><strong>As an organizing commitee, we are honored to invite you to attend 1.GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be
-                                held on 12-13 May 2022 - Konya Technical University, Geological Engineering Department and online. This workshop will useful for scientists, students, and researchers who are interested in studies such as the events from the
-                                formation of
-                                the universe to the present, the dating of the magmatism and volcanic activities, time scales of magmatic processes, the effect of humanity and volcanism, and the
-                                revealing of the magmatism-tectonism relationship. In this workshop, the methods used for geochronological studies and case studies will be explained and
-                                discussed.</strong></p>
-                        <p><strong>Through the workshop, it will be possible to establish new partnerships, to share knowledge and experiences.</strong></p>
-                        <p><strong>The purpose of the workshop is to give information about the geological, petrological and geochronological information to participants. Also, this workshop aims to
-                                provide connections for students and young reserachers, and also to provide opportunities for experts to share and discuss their experiences.</strong></p>
+
+                        <p>As the organizing commitee, we are honored to invite you to attend 1<sup>st</sup> GEOCHRONOLOGY AND MASS SPECTROMETRY WORKSHOP 2022 which will be held online on 12-13 May 2022 by the Konya Technical University, Geological Engineering Department. This workshop will be useful for scientists, students, and researchers who are interested in studies such as the events from the formation of the universe to the present, the dating of the magmatism and volcanic activities, time scales of magmatic processes, the effect of humanity and volcanism, and the revealing of the magmatism-tectonism relationship. In this workshop, the methods used for geochronological studies and case studies will be explained and discussed.</p>
+                        <p>Through the workshop, it will be possible to establish new partnerships, to share knowledge and experiences.</p>
+                        <p>The purpose of the workshop is to give information about the geological, petrological and geochronological information to participants. Also, this workshop aims to provide connections for students and young researchers, and also to provide opportunities for experts to share and discuss their experiences.</p>
+
                     </div>
 
 

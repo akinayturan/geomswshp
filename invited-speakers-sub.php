@@ -15,7 +15,7 @@
             <div class="col-md-12 col-sm-12 col-lg-12">
                 <div class="speaker-inner w-100">
                     <div class="row mrg2">
-                        <div class="col-md-4 col-sm-4 col-lg-4">
+                        <div class="col-md-6 col-sm-6 col-lg-6">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img1.jpg" alt="Speaker Image 1">
                                 <div class="speaker-info position-absolute">
@@ -27,7 +27,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-4 col-lg-4">
+                        <div class="col-md-6 col-sm-6 col-lg-6">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img3.jpg" alt="Speaker Image 2">
                                 <div class="speaker-info position-absolute">
@@ -39,20 +39,19 @@
                                 </div>
                             </div>
                         </div>
-
-                        <div class="col-md-4 col-sm-4 col-lg-4">
+                        <div class="col-md-6 col-sm-6 col-lg-6">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
-                                <img class="spec-img" src="assets/img4.png" alt="Speaker Image 4">
+                                <img class="spec-img" src="assets/img8.jpeg" alt="Speaker Image 4">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Prof. Dr.Gonca Gençalioğlu Kuşçu</a></h3>
-                                    <span class="d-block">Muğla Sıtkı Koçman University Geological Engineering</span>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Prof. Dr. Gonca Gençalioğlu Kuşcu</a></h3>
+                                    <span class="d-block">Muğla Sıtkı Koçman University, Department of Geological Engineering</span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Prof. Dr.Gonca Gençalioğlu Kuşçu</h3>
+                                <h3 class="mb-0 text-white position-absolute">Prof. Dr. Gonca Gençalioğlu Kuşcu</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-4 col-lg-4">
+                        <div class="col-md-6 col-sm-6 col-lg-6">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img6.jpg" alt="Speaker Image 3">
                                 <div class="speaker-info position-absolute">
@@ -68,10 +67,10 @@
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img5.jpg" alt="Speaker Image 4">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Associate Professor Eren Şahiner</a></h3>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assoc. Prof. Dr. Eren Şahiner</a></h3>
                                     <span class="d-block">Ankara University, Nuclear Sciences Institute </span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Associate Professor Eren Şahiner</h3>
+                                <h3 class="mb-0 text-white position-absolute">Assoc. Prof. Dr. Eren Şahiner</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
@@ -80,10 +79,22 @@
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img7.jpg?e2" alt="Speaker Image 4">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Associate Professor Ersin Koralay</a></h3>
-                                    <span class="d-block">Dokuz Eylül University 	Geological Engineering </span>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assoc. Prof. Dr. Ersin Koralay</a></h3>
+                                    <span class="d-block">Dokuz Eylül University, Department of Geological Engineering</span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Associate Professor Ersin Koralay</h3>
+                                <h3 class="mb-0 text-white position-absolute">Assoc. Prof. Dr. Ersin Koralay</h3>
+                                <div class="speaker-social position-absolute">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-lg-4">
+                            <div class="speaker-box position-relative w-100 overflow-hidden">
+                                <img class="spec-img" src="assets/img9.jpg" alt="Speaker Image 7">
+                                <div class="speaker-info position-absolute">
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assoc. Prof. Dr. Fatih Karaogla</a></h3>
+                                    <span class="d-block">Cukurova University, Department of Geological Engineering</span>
+                                </div>
+                                <h3 class="mb-0 text-white position-absolute">Assoc. Prof. Dr. Fatih Karaoglan</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
