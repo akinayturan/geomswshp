@@ -7,7 +7,7 @@ include 'header.php';
     </div>
 </section>
 <section>
-    <div class="w-100 pt-110 pb-80 gray-layer opc9 position-relative">
+    <div class="w-100 pt-110  gray-layer opc9 position-relative">
         <div class="fixed-bg patern-bg" style="background-image: url(assets/images/patter-bg1.jpg);"></div>
         <div class="container">
             <div class="sec-title btm-icn mb-60 w-100 text-center">
@@ -21,28 +21,25 @@ include 'header.php';
             <div class="packages-wrap w-100">
                 <div class="row mrg60 res-caro">
                     <div class="col-md-12 col-sm-12 col-lg-12">
-
                         <p><strong>&nbsp;</strong></p>
                         <p><strong>Registration and Abstract Submission Date: 15 March 2022</strong></p>
                         <p><strong>Deadline: 15 April 2022 </strong></p>
                         <p><strong>Workshop Date: 12-13 May 2022 (online)</strong></p>
-                        <p><strong>&nbsp;</strong></p>
+                        <p><hr /></p>
                         <p><strong>Participation in the workshop, which will be held in a limited time due to Covid 19, will be limited.</strong></p>
-                        <p><strong>&nbsp;</strong></p>
+                        <p><hr /></p>
                         <p><strong>Received papers will be accepted after peer review and all accepted articles will be published in the proceeding E-Book.</strong></p>
                         <p><strong>&nbsp;</strong></p>
                     </div>
-
                 </div>
             </div><!-- Packages Wrap -->
         </div>
     </div>
 </section>
 <section>
-    <div class="w-100 pt-140 pb-120 position-relative">
+    <div class="w-100 pt-50 pb-120 position-relative">
         <div class="container">
             <div class="gallery-wrap w-100">
-
                 <div class="row masonry">
                 <div class="col-md-12 col-sm-12 col-lg-12 fltr-itm">
                     <div class="gallery-item2 text-center mb-30 w-100 position-relative overflow-hidden">
