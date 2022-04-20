@@ -28,6 +28,14 @@ include 'header.php';
                             <li class="star"><a href="/doc/GEOMSWSHP2022_Abstract_Template.docx?e1" target="_blank"><i class="fa  fa-file-word-o"></i> Abstract Template</a></li>
                             <li class="star"><a href="/doc/GEOMSWSHP2022_Full_Paper_Template.docx?e1" target="_blank"><i class="fa  fa-file-word-o"></i> Full Paper Template</a></li>
                         </ul>
+                        <hr />
+
+                        <ul class="icon">
+                            <li class="star"><a href="https://teams.microsoft.com/l/meetupjoin/19%3ameeting_NzdjZjAwYjQtNGI5Ny00NmUxLTkzZWItMDA1ZWJjYjI1ZjYz%40thread
+                        .v2/0?context=%7b%22Tid%22%3a%22af9a1a40-e030-4a92-
+                        a04f-902360660ce0%22%2c%22Oid%22%3a%220f407220-5e55-4a6b-b2f3-586f9a56536b%22%7d" target="_blank"><i class="fa  fa-link"></i> Workshop link between 12-13 May
+                                    2022</a></li>
+                        </ul>
                     </div>
 
                 </div>
