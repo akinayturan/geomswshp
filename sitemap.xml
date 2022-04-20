@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://geomswshp.sub.fyi/</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/honorary-committee.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/organization-committee.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/scientific-board.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/invitation.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/important-dates.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/documents.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/invited-speakers.php</loc>
+  </url>
+  <url>
+    <loc>https://geomswshp.sub.fyi/contact.php</loc>
+  </url>
+</urlset>
