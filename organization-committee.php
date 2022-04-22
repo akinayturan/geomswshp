@@ -121,11 +121,6 @@ include 'header.php';
                             <tbody>
                             <tr>
                                 <td>
-                                    MSc. Sukru Arslan (Head of Konya Branch of the Chamber of Geological Engineers)
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
                                     Assist. Prof. Dr. Kıymet Deniz (Ankara University)
                                 </td>
                             </tr>
@@ -212,11 +207,6 @@ include 'header.php';
                             <tr>
                                 <td>
                                     Chamber of Geological Engineers
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    Chamber of Geological Engineers Konya Branch
                                 </td>
                             </tr>
                             <tr>

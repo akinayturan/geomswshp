@@ -55,10 +55,10 @@
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/img6.jpg" alt="Speaker Image 3">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Prof. Dr.Hamdi Şükür Kılıç 	</a></h3>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Prof. Dr. Hamdi Şükür Kılıç 	</a></h3>
                                     <span class="d-block">Dr.Hamdi Şükür Kılıç Selcuk University  Physics Department (Advanced Technologies Research and Application Center Laser Laboratory)</span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Prof. Dr.Hamdi Şükür Kılıç 	</h3>
+                                <h3 class="mb-0 text-white position-absolute">Prof. Dr. Hamdi Şükür Kılıç 	</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
@@ -117,10 +117,10 @@
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/pro-kiymet.jpg" alt="Speaker Image 9">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assist. Prof. Kıymet DENİZ</a></h3>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assist. Prof. Dr. Kıymet DENİZ</a></h3>
                                     <span class="d-block">Ankara University</span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Assist. Prof. Kıymet DENİZ</h3>
+                                <h3 class="mb-0 text-white position-absolute">Assist. Prof. Dr. Kıymet DENİZ</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
