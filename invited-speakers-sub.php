@@ -100,15 +100,14 @@
                             </div>
                         </div>
 
-
                         <div class="col-md-4 col-sm-4 col-lg-4">
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/pro-altug.jpg" alt="Speaker Image 8">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assoc. Prof. Dr. Altuğ HASÖZBEK</a></h3>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assoc. Prof. Dr. Altuğ Hasözbek</a></h3>
                                     <span class="d-block">Laboratorio De Serıes De Uranio/Centro Nacional de Investigación sobre la Evolución Humana, Cenıeh/Spain </span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Assoc. Prof. Dr. Altuğ HASÖZBEK</h3>
+                                <h3 class="mb-0 text-white position-absolute">Assoc. Prof. Dr. Altuğ Hasözbek</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
@@ -117,10 +116,10 @@
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/pro-kiymet.jpg" alt="Speaker Image 9">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assist. Prof. Dr. Kıymet DENİZ</a></h3>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Assist. Prof. Dr. Kıymet Deniz</a></h3>
                                     <span class="d-block">Ankara University</span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Assist. Prof. Dr. Kıymet DENİZ</h3>
+                                <h3 class="mb-0 text-white position-absolute">Assist. Prof. Dr. Kıymet Deniz</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>
@@ -129,10 +128,10 @@
                             <div class="speaker-box position-relative w-100 overflow-hidden">
                                 <img class="spec-img" src="assets/pro-gonenc.jpg" alt="Speaker Image 10">
                                 <div class="speaker-info position-absolute">
-                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Dr. Gönenç GÖÇMENGİL</a></h3>
+                                    <h3 class="mb-0 text-white"><a href="/invited-speakers.php">Dr. Gönenç Göçmengil</a></h3>
                                     <span class="d-block">Istanbul Metropolitan Municipality</span>
                                 </div>
-                                <h3 class="mb-0 text-white position-absolute">Dr. Gönenç GÖÇMENGİL</h3>
+                                <h3 class="mb-0 text-white position-absolute">Dr. Gönenç Göçmengil</h3>
                                 <div class="speaker-social position-absolute">
                                 </div>
                             </div>

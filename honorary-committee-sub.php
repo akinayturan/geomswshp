@@ -21,12 +21,12 @@
     <td>Assoc. Prof. Dr. Fatih Karaoglan, Cukurova University, Department of Geological Engineering</td>
 </tr>
 <tr>
-    <td>Assoc. Prof. Dr. Altuğ HASÖZBEK, Laboratorio De Serıes De Uranio/Centro Nacional de Investigación sobre la Evolución Humana, Cenıeh/Spain</td>
+    <td>Assoc. Prof. Dr. Altuğ Hasözbek, Laboratorio De Serıes De Uranio/Centro Nacional de Investigación sobre la Evolución Humana, Cenıeh/Spain</td>
 </tr>
 <tr>
-    <td>Assist. Prof. Dr. Kıymet DENİZ, Ankara University</td>
+    <td>Assist. Prof. Dr. Kıymet Deniz, Ankara University</td>
 </tr>
 <tr>
-    <td>Dr. Gönenç GÖÇMENGİL, Istanbul Metropolitan Municipality</td>
+    <td>Dr. Gönenç Göçmengil, Istanbul Metropolitan Municipality</td>
 </tr>
 </tbody>
