@@ -15,7 +15,7 @@
                 <div class="row mrg60 res-caro">
                     <div class="col-md-12 col-sm-12 col-lg-12">
                         <ul class="icon">
-                            <li class="star"><a href="/doc/general-program-and-topics.pdf?e2" target="_blank"><i class="fa fa-file-pdf-o"></i> General Program & Topic</a></li>
+                            <li class="star"><a href="/doc/Program-Topic-recent.pdf?e2" target="_blank"><i class="fa fa-file-pdf-o"></i> General Program & Topic</a></li>
                             <li class="star"><a href="/doc/banner-GEOMSWSHP2022.pdf?e2" target="_blank"><i class="fa fa-file-pdf-o"></i> Banner</a></li>
                             <li class="star"><a href="/doc/GEOMSWSHP2022_Registration_Form.docx?e2" target="_blank"><i class="fa   fa-file-word-o"></i> Registration Form</a></li>
                             <li class="star"><a href="/doc/GEOMSWSHP2022_Full_Paper_Template.docx?e2" target="_blank"><i class="fa  fa-file-word-o"></i> Full Paper Template</a></li>
