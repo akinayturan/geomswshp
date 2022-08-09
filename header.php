@@ -5,6 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="assets/workshop.jpg" sizes="35x35" type="image/png">
     <title>Geochronology And Mass Spectrometry Workshop</title>
+    <meta name="keywords" content="Geochronology, geological, petrological, geochronological">
+    <meta name="description"
+          content="Geochronology And Mass Spectrometry Workshop 2022, give information about the geological, petrological and geochronological information to participants.">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="content-language" content="en">
+
+    <meta property="og:title" content="Geochronology And Mass Spectrometry Workshop"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description"
+          content="Geochronology And Mass Spectrometry Workshop 2022, give information about the geological, petrological and geochronological information to participants.">
+    <meta property="og:site_name" content="Geochronology"/>
+    <meta property="og:image" content="assets/workshop.jpg"/>
+    <meta property="og:image:type" content="image/jpeg"/>
+
 
     <link rel="stylesheet" href="assets/css/all.min.css?v6">
     <link rel="stylesheet" href="assets/css/flaticon.css?v6">

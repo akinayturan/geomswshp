@@ -17,7 +17,7 @@
 
                         <ul class="icon">
                             <li class="star"><a href="/doc/geochronology-workshop-2022-ebook.pdf" target="_blank">
-                                    <i class="fa fa-file-pdf-o"></i>Geochronology Workshop 2022 Ebook</a></li>
+                                    <i class="fa fa-file-pdf-o"></i> Geochronology Workshop 2022 Ebook</a></li>
                         </ul>
 
                         <hr />
