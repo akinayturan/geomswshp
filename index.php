@@ -26,9 +26,13 @@ include 'header.php';
                         </div>
                     </div>
                 </div>
-
             </div>
         </div><!-- Featured Area Wrap -->
+        <div class="col-md-12 col-sm-12 col-lg-12 order-md-1">
+            <div class="btns-wrap mt-60 text-center w-100">
+                <a class="thm-btn mt-20 brd-btn" href="/doc/geochronology-workshop-2022-ebook.pdf" target="_blank" title="Geochronology Workshop 2022 Ebook">Geochronology Workshop 2022 Ebook<span></span></a>
+            </div><!-- Buttons Wrap -->
+        </div>
     </div>
 </section>
 <section>
