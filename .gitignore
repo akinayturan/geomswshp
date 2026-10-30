@@ -1,2 +1,5 @@
-.idea
-.nova
+.DS_Store
+.idea/
+.source/
+backup_*/
+*.tzst

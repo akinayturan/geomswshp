@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Page not found — GEOMSWSHP</title>
+  <script>
+    const redirects = {
+    "/about.php": "/invitation.html",
+    "/contact.php": "/contact.html",
+    "/documents.php": "/documents.html",
+    "/honorary-committee.php": "/honorary-committee.html",
+    "/important-dates.php": "/important-dates.html",
+    "/index.php": "/",
+    "/invitation.php": "/invitation.html",
+    "/invited-speakers.php": "/invited-speakers.html",
+    "/organization-committee.php": "/organization-committee.html",
+    "/scientific-board.php": "/scientific-board.html"
+};
+    const target = redirects[window.location.pathname];
+    if (target) window.location.replace(target + window.location.search + window.location.hash);
+  </script>
+</head>
+<body>
+  <h1>Page not found</h1>
+  <p>This page may have moved. <a href="/">Visit the GEOMSWSHP home page</a>.</p>
+  <noscript><p>JavaScript is required to follow links to the former PHP pages automatically.</p></noscript>
+</body>
+</html>
